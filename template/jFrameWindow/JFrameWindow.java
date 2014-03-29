@@ -28,8 +28,8 @@ public class JFrameWindow extends JFrame {
     this.setVisible(true);
   }
 
-  @SuppressWarnings("unused")
   public static void main(String[] args) {
+    @SuppressWarnings("unused")
     JFrameWindow main = new JFrameWindow();
   }
 
